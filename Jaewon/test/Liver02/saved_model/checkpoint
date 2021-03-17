@@ -1,0 +1,2 @@
+model_checkpoint_path: "miniRes_weights"
+all_model_checkpoint_paths: "miniRes_weights"
