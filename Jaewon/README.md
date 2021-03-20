@@ -26,3 +26,7 @@ Test data:
 
 
 Date: 2021 03 21
+
+1. Image Preprocessing
+ - ~~crop and save all of images~~
+ - study Image Hashing
