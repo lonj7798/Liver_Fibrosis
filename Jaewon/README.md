@@ -23,10 +23,14 @@ Test data:
 - need to crop all of the images
 - need to remove the similar or duplicated images
 
-
+============================================================================
 
 Date: 2021 03 21
 
 1. Image Preprocessing
  - ~~crop and save all of images~~
- - study Image Hashing
+ - ~~study Image Hashing~~
+2. Test the code with masked images
+3. Explore the data
+ - check the distribution of images (Fibrosis 0~4)
+ - ~~check the size of the images~~
