@@ -30,7 +30,13 @@ Date: 2021 03 21
 1. Image Preprocessing
  - ~~crop and save all of images~~
  - ~~study Image Hashing~~
-2. Test the code with masked images
+ - ~~change the size of the image~~
+2. ~~Test the code with masked images~~
 3. Explore the data
  - check the distribution of images (Fibrosis 0~4)
  - ~~check the size of the images~~
+----------------------------------------------------------------------------
+Result: 76% accuracy on validation set
+ - resize the images
+ - **check the distribution of dataset**
+ - learn ftp tool (FileZilla Client)
