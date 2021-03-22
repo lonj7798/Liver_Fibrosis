@@ -40,3 +40,15 @@ Result: 76% accuracy on validation set
  - resize the images
  - **check the distribution of dataset**
  - learn ftp tool (FileZilla Client)
+
+============================================================================
+
+Date: 2021 03 22
+1. ~~Test the code~~
+ - ~~Fibrosis level 0 vs Fibrosis level 4~~
+ - ~~Image size 300X400~~
+----------------------------------------------------------------------------
+Result: Highest validation accuracy 0.82
+        Highest training accuracy 0.94
+Trainig accuracy and loss showed stable development.
+**Validation accuracy and loss fluctuated** -> need to find reasons
