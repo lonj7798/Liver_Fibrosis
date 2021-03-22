@@ -44,11 +44,33 @@ Result: 76% accuracy on validation set
 ============================================================================
 
 Date: 2021 03 22
+
 1. ~~Test the code~~
  - ~~Fibrosis level 0 vs Fibrosis level 4~~
  - ~~Image size 300X400~~
 ----------------------------------------------------------------------------
 Result: Highest validation accuracy 0.82\
         Highest training accuracy 0.94\
-Trainig accuracy and loss showed stable development.\
+Trainig accuracy and loss showed stable growth.\
 **Validation accuracy and loss fluctuated** -> need to find reasons
+
+============================================================================
+
+Date: 2021 03 23
+1. Solve the previous problems
+ - validation accuracy and loss fluctuation -> increase the training data using ImageGenerator.
+ - reduce the image size to 150X200
+ - drop rate: 0%
+----------------------------------------------------------------------------
+Result: less fluctuation than before, but still has fluctuation\
+        underfitting(?)\
+        better loss about validation set
+        
+K-Fold Cross-Validation\
+change the parameter of ImageGenerator and model\
+use ReLu\
+change the configuration of dataset:
+    current: sort by patient\
+    changed: sort all of images and remove the simlar and duplicated images
+
+============================================================================
