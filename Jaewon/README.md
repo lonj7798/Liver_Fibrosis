@@ -48,7 +48,7 @@ Date: 2021 03 22
  - ~~Fibrosis level 0 vs Fibrosis level 4~~
  - ~~Image size 300X400~~
 ----------------------------------------------------------------------------
-Result: Highest validation accuracy 0.82
-        Highest training accuracy 0.94
-Trainig accuracy and loss showed stable development.
+Result: Highest validation accuracy 0.82\
+        Highest training accuracy 0.94\
+Trainig accuracy and loss showed stable development.\
 **Validation accuracy and loss fluctuated** -> need to find reasons
