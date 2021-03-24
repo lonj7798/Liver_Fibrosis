@@ -74,3 +74,8 @@ change the configuration of dataset:
     changed: sort all of images and remove the simlar and duplicated images
 
 ============================================================================
+
+Date: 2021 03 24
+ - ~~additional data~~
+ - ~~re-organize data set~~ (by patient -> by fibrosis level)
+ - remove the similar and duplicated images
