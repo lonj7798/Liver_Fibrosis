@@ -84,5 +84,11 @@ Date: 2021 03 24
 
 Date: 2021 03 25
 1. Data manage
- - crop the image using mask
+ - ~~crop the image using mask~~
  - remove the similar or duplicated images
+
+============================================================================
+
+Date: 2021 03 26
+1. Test with new dataset
+ - Softmax Classification -> Fibrosis level 0~4
