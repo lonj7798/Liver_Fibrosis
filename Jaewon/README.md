@@ -91,4 +91,9 @@ Date: 2021 03 25
 
 Date: 2021 03 26
 1. Test with new dataset
- - Softmax Classification -> Fibrosis level 0~4
+ - Categorical Classification -> Fibrosis level 0~4
+	- low accuracy
+	- hard to train (under-fitting)
+ - Binary classification
+	- better than previous dataset
+	- quite stablized test loss
