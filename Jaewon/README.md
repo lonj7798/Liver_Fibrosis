@@ -79,3 +79,10 @@ Date: 2021 03 24
  - ~~additional data~~
  - ~~re-organize data set~~ (by patient -> by fibrosis level)
  - remove the similar and duplicated images
+
+============================================================================
+
+Date: 2021 03 25
+1. Data manage
+ - crop the image using mask
+ - remove the similar or duplicated images
